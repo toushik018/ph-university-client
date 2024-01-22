@@ -1,7 +1,7 @@
+import React from 'react';
 
-
-const studentDashboard = () => {
+const StudentDashboard = () => {
   return <div>studentDashboard</div>;
 };
 
-export default studentDashboard;
+export default StudentDashboard;

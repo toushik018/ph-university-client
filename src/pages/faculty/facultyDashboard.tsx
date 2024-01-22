@@ -1,6 +1,7 @@
+import React from 'react';
 
-const facultyDashboard = () => {
-  return <div>facultyDashboard</div>;
+const FacultyDashboard = () => {
+  return <div>faculty Dashboard</div>;
 };
 
-export default facultyDashboard;
+export default FacultyDashboard;
