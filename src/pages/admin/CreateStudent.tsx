@@ -1,7 +1,9 @@
-import React from 'react';
-
 const CreateStudent = () => {
-  return <div>CreateStudent</div>;
+  return (
+    <div>
+        <h1>This is CreateStudent</h1>
+    </div>
+  );
 };
 
 export default CreateStudent;
