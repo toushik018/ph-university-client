@@ -10,13 +10,13 @@ export type TSideBar = {
     key: string,
     label: ReactNode,
     children?: TSideBar[]
-}
+} | undefined
 
 
 
 export type TUserPath = {
-    name: string;
-    path?: string ;
+    name?: string;
+    path?: string;
     element?: ReactNode;
     children?: TUserPath[]
 }
